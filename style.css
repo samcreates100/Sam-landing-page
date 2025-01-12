@@ -1,0 +1,14 @@
+.box {
+    display:flex;
+    
+}
+.header {
+    display:flex;
+    align-items: baseline;
+    gap: 100px;
+    border:10px solid black;
+    height: 200px;
+    width: 2000px;
+    background-color: gray;
+
+}
